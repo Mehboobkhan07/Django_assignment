@@ -1,3 +1,6 @@
+![analytics_api](https://github.com/user-attachments/assets/c6e36b54-a084-4eac-a474-1e096b9ad114)
+![expense_api](https://github.com/user-attachments/assets/cebc93b0-728a-4483-9b3c-cc3806a5af9a)
+![login](https://github.com/user-attachments/assets/dcb5a3bf-4139-4c92-ad81-a37b6f431056)
 # 💸 Expense Tracker Backend API
 
 A simple backend API for tracking personal expenses with user authentication, expense logging, filtering, and analytics — built using Django REST Framework and JWT.
